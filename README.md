@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/shawn2016/icons.git">
-    <img width="150" src="https://raw.githubusercontent.com/uiw-react/uiw/master/docs/assets/logo-README.svg?sanitize=true">
+    <img width="150" src="https://github.com/shawn2016/icons/blob/master/test.png?sanitize=true">
   </a>
 </p>
 
@@ -23,37 +23,35 @@ They are free to use and licensed under [MIT](https://opensource.org/licenses/MI
 ## Installation
 
 ```bash
-npm install uiw-iconfont --save
+npm install isui-iconfont --save
 ```
 
 ## HTML Example
 
-You can use [https://uiw-react.github.io/icons/](https://uiw-react.github.io/icons/) to easily find the icon you want to use. Once you've copied the desired icon's CSS classname, simply add the icon and icon's classname, such as `apple` to an HTML element.
-
 You need link CSS
 
 ```html
-<link rel="stylesheet" type="text/css" href="node_modules/fonts/w-iconfont.css">
+<link rel="stylesheet" type="text/css" href="node_modules/fonts/is-iconfont.css">
 ```
 
 Used in Less:
 
 ```css
-@import "~uiw-iconfont/fonts/w-iconfont.css";
+@import "~isui-iconfont/fonts/is-iconfont.css";
 ```
 
-note: It has a `w-icon-` prefix. 
+note: It has a `is-icon-` prefix. 
 
 ```html
-<i class="w-icon-apple"></i>
+<i class="is-icon-apple"></i>
 ```
 
-Or use the `Unicode`, You can use [Unicode website](https://uiw-react.github.io/icons/unicode.html) to easily find the `Unicode` icon you want to use. 
+Or use the `Unicode`, You can use [Unicode website](https://github.com/shawn2016/icons/unicode.html) to easily find the `Unicode` icon you want to use. 
 
 ```html
 <style>
 .iconfont{
-  font-family: "w-iconfont" !important;
+  font-family: "is-iconfont" !important;
   font-size: 16px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
