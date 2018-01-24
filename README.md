@@ -16,7 +16,7 @@ They are free to use and licensed under [MIT](https://opensource.org/licenses/MI
 
 <p align="center">
   <a href="https://uiw-react.github.io/icons">
-    <img src="https://github.com/uiw-react/icons/raw/master/build/assets/uiw-font.png">
+    <img src="https://github.com/shawn2016/icons/blob/master/test.png">
   </a>
 </p>
 
