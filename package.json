@@ -1,0 +1,52 @@
+{
+  "name": "isui-iconfont",
+  "version": "1.0.0",
+  "description": "The premium icon font for isui Component Library.",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawn2016/icons.git"
+  },
+  "homepage": "git+https://github.com/shawn2016/icons.git",
+  "scripts": {
+    "font": "node ./build/svg2font",
+    "metapak": "metapak",
+    "start": "./build/deploy"
+  },
+  "keywords": [
+    "svg",
+    "icon",
+    "react",
+    "font",
+    "webfont",
+    "icon",
+    "iconfont",
+    "font-face",
+    "compress",
+    "minify",
+    "font-cli",
+    "otf",
+    "ttf",
+    "woff",
+    "eot",
+    "svg",
+    "ttf2eot",
+    "ttf2woff",
+    "ttf2svg",
+    "svg2ttf",
+    "css",
+    "base64"
+  ],
+  "bugs": {
+    "url": "git+https://github.com/shawn2016/icons.git"
+  },
+  "devDependencies": {
+    "copy-template-dir": "^1.3.0",
+    "metapak": "1.0.2",
+    "svg2ttf": "^4.1.0",
+    "svgicons2svgfont": "^8.0.0",
+    "ttf2eot": "^2.0.0",
+    "ttf2woff": "^2.0.1"
+  },
+  "license": "MIT"
+}
