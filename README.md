@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/shawn2016/icons.git">
-    <img width="150" src="https://github.com/shawn2016/icons/blob/master/test.png?sanitize=true">
+    <img width="150" src="https://github.com/shawn2016/icons/blob/master/favicon.png?sanitize=true">
   </a>
 </p>
 
