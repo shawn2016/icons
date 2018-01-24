@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/shawn2016/icons.git">
-    <img width="150" src="https://github.com/shawn2016/icons/blob/master/favicon.png?sanitize=true">
+    <img height="150" src="https://github.com/shawn2016/icons/blob/master/favicon.png?sanitize=true">
   </a>
 </p>
 
@@ -10,12 +10,11 @@ isui-icon
 
 The premium icon font for  isui Component Library. Designed by [@shawn2016](https://github.com/shawn2016/icons.git). 
 
-Visit **[https://uiw-react.github.io/icons/](https://uiw-react.github.io/icons/)** and check out the search feature, which has keywords identifying common icon names and styles. For example, if you search for "arrow" we call up every icon that could possibly be used as an arrow. We've also included each icon's class name for easy copy / pasting when you're developing!
 
-They are free to use and licensed under [MIT](https://opensource.org/licenses/MIT). We intend for this icon pack to be used with [uiw](https://uiw-react.github.io), but it’s by no means limited to it. Use them wherever you see fit, personal or commercial. 
+They are free to use and licensed under [MIT](https://opensource.org/licenses/MIT). We intend for this icon pack to be used with [isui](https://github.com/shawn2016/icons), but it’s by no means limited to it. Use them wherever you see fit, personal or commercial. 
 
 <p align="center">
-  <a href="https://uiw-react.github.io/icons">
+  <a href="https://github.com/shawn2016/icons">
     <img src="https://github.com/shawn2016/icons/blob/master/test.png">
   </a>
 </p>
