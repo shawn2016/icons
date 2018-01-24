@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://uiw-react.github.io/icons">
+  <a href="https://github.com/shawn2016/icons.git">
     <img width="150" src="https://raw.githubusercontent.com/uiw-react/uiw/master/docs/assets/logo-README.svg?sanitize=true">
   </a>
 </p>
 
 
-uiw-icon
+isui-icon
 ---
 
-The premium icon font for  uiw Component Library. Designed by [@liwen0526](https://github.com/liwen0526). 
+The premium icon font for  isui Component Library. Designed by [@shawn2016](https://github.com/shawn2016/icons.git). 
 
 Visit **[https://uiw-react.github.io/icons/](https://uiw-react.github.io/icons/)** and check out the search feature, which has keywords identifying common icon names and styles. For example, if you search for "arrow" we call up every icon that could possibly be used as an arrow. We've also included each icon's class name for easy copy / pasting when you're developing!
 

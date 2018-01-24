@@ -2,7 +2,7 @@
 
 # set ORIGIN to current git origin
 # ORIGIN=$(git remote -v | awk '$1=="origin" && $3=="(push)" {print $2}');
-ORIGIN=https://github.com/uiw-react/icons.git;
+ORIGIN=https://github.com/shawn2016/icons.git;
 VERSION=$(cat package.json | grep version | head -1 | awk -F: '{ print $2 }' | sed 's/[",]//g');
 
 
